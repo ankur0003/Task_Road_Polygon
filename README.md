@@ -1,6 +1,6 @@
 # Task_Road_Polygon
 
-This is a Lane Detection CNN model to identify lane for autonomous vehicles and for traffic management system.
+This is a Lane Detection CNN model to identify lane for autonomous vehicles and for traffic management system(in-progress).
 
 # CNN
 This python notebook uses CNN model to learn the training dataset with cross_validation dataset.
