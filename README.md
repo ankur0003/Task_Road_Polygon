@@ -12,3 +12,9 @@ No Pretrained model is used in this project.
 
 The code is written in python using google colab note books. Therefore the filename or filepath you will see
 in my code are mounted from my google drive account.
+
+# Input
+![alt text](https://github.com/ankur0003/Task_Road_Polygon/blob/master/tes_image.jfif)
+
+# Output
+![alt text](https://github.com/ankur0003/Task_Road_Polygon/blob/master/output.jpeg)
